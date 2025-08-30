@@ -4,17 +4,17 @@
 
 ---
 
-### 🛡️ About Me
+### 🛡️ About Me 
 
-- **Microsoft Cybersecurity Architect (SC-100)**
-- **Azure Security Engineer (AZ-500)**
-- Specialist in **Microsoft Purview, IAM, Compliance, GRC**, and leading **Zero-Trust Projects**
+🔐 Identity-first security advocate with 5+ years of hands-on experience in Azure IAM, Microsoft Defender, and data governance. I specialize in building secure, compliant environments that align with regulatory frameworks like ISO 27001, NIST 800-53, and GDPR.
+
+## 💼 What I Do
+
+- **Azure IAM Expertise**: Deep knowledge of PIM, RBAC, Conditional Access, MFA, hybrid identity, and passwordless authentication strategies.
+- **Data Governance**: Skilled in Microsoft Purview for data classification, lifecycle management, and insider risk mitigation.
+- **Security Engineering**: Designing scalable, zero-trust architectures with measurable improvements in security posture.
+- **Compliance Alignment**: Translating technical controls into business-ready solutions that meet audit and regulatory requirements.
 - Passionate about building robust, scalable, and compliant security solutions in the cloud
-
----
-
-### 🌟 What I Do
-
 - Architect and implement **Zero-Trust Security** frameworks for enterprise-scale environments
 - Design and deploy secure cloud infrastructures using **Microsoft Azure**
 - Drive **Governance, Risk, and Compliance (GRC)** initiatives and **Identity & Access Management (IAM)**
@@ -38,6 +38,11 @@
 
 - **Microsoft Certified: Cybersecurity Architect Expert (SC-100)**
 - **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**
+- **Microsoft Certified: Identity and Access Admin. Associate (sc-300)**
+- **Microsoft Certified: Security Operations Analyst Associate (sc-200)**
+- **Microsoft Certified: Azure Cloud Fundamental (AZ-900)**
+- **MicrosoftnCertified: Security, Compliance, and identity (SC-900)**
+- **CISA, GRC, PCI-DSS, ISO 27001 Implementor, Compliance**
 
 ---
 
