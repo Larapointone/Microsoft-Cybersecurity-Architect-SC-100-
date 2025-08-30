@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Larapointone!
 
-##🚀 Microsoft Cybersecurity Architect | Azure Security Engineer
+🚀 Microsoft Cybersecurity Architect | Azure Security Engineer
 
 ---
 
